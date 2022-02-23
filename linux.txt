@@ -1,0 +1,8 @@
+Most distros have Python 3 installed.
+If not, install it using a package manager.
+
+Arch:
+sudo pacman -S python
+
+Debian based (apt)
+https://linuxhint.com/install-python-debian-10/

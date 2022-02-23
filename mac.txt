@@ -1,0 +1,3 @@
+Download Python.
+https://www.python.org/ftp/python/3.10.2/python-3.10.2-macos11.pkg
+Install Python, choose the PATH option.
