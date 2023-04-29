@@ -1,3 +1,11 @@
 Download Python.
-https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
+https://www.python.org/
+
 Install Python, choose the PATH option.
+
+Run requirements.txt with pip:
+pip install -r requirements.txt
+
+Run the script with py:
+If you get an error, you will have to change around PATH variables or mess with the awful settings app Windows comes with, have fun.
+py main.py

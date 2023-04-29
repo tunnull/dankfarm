@@ -4,5 +4,11 @@ If not, install it using a package manager.
 Arch:
 sudo pacman -S python
 
-Debian based (apt)
-https://linuxhint.com/install-python-debian-10/
+Debian:
+sudo apt install python3
+
+Run requirements.txt with pip:
+pip install -r requirements.txt
+
+Run the script with python3:
+python3 main.py
